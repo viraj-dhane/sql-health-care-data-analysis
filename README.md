@@ -1,3 +1,3 @@
-# SQL_HealthCareDataAnalysis
+# SQL Health Care Data Analysis
 
 This project entails an in-depth exploratory data analysis (EDA) of COVID-19 deaths and vaccinations using advanced SQL techniques. After preprocessing two datasets for consistency, key metrics like infection rates, mortality rates, and death percentages were analyzed in conjunction with population data. The analysis compares total cases versus deaths, identifies countries with the highest infection rates, and examines data across regions and continents using SQL views, aggregate functions, nested select statements, and temporary tables, ensuring a detailed assessment.
